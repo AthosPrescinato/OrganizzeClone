@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OrganizzeClone</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_activity_teste">TesteActivity</string>
+</resources>
