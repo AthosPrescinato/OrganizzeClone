@@ -1,10 +1,11 @@
 # OrganizzeClone
 
-Projeto de portifolio
+Projeto de portifolio baseado em um APP de Despesas já no mercado, Organizze.
 
 #  Sobre o projeto
 
-APP inspirado no Organizze para controle de despesas.
+App de lançamento de receitas e despesas, salvo no banco de dados FireBase, e acessado através de uma autenticação de usuário e senha. Possui tela de cadastro de novos usuarios. 
+
 
 # Layout 
 
